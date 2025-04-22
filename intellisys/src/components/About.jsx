@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
-import { BiBullseye, BiLightbulb, BiGem } from "react-icons/bi";
+// import { BiBullseye, BiLightbulb, BiGem } from "react-icons/bi";
 import ABgirl from "../assestes/ABgirl.jpg";
 import projectprocess from "../assestes/projectprocess.png";
 import vidyank from "../assestes/vidyank.png";
